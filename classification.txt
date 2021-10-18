@@ -1,7 +1,0 @@
-Train set correct predictions: 24959/30162
-Train set wrong predictions(error): 5203/30162
-Test set accuracy: 82.74981765134937%
-
-Test set correct predictions: 12414/15060
-Test set wrong predictions(error): 2646/15060
-Test set accuracy: 82.43027888446215%
